@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 459f605e13eced949a32904be2fa0a25
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverUI: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - livesText: {instanceID: 0}
+  - invaders_dead: {instanceID: 0}
+  - player_dead: {instanceID: 0}
+  - sound_track: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
